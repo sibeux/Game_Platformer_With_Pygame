@@ -1,4 +1,4 @@
-.. image:: https://raw.githubusercontent.com/pygame/pygame/main/docs/pygame_logo.svg
+.. image:: https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif
   :alt: pygame
   :target: https://www.pygame.org/
 
